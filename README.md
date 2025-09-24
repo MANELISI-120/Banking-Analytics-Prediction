@@ -25,7 +25,7 @@ We compare two Random Forest approaches:
 - SMOTE helps handle class imbalance and improves detection of minority class
 
 ## Visualizations
-- Screenshot of metric comparison bar chart: `screenshots/metrics_comparison.png`  
+- Screenshot of metric comparison bar chart: `Metrics_Comparison.png`  
 - EDA visuals included in notebook  
 
 ## How to Run
